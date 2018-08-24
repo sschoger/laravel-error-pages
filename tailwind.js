@@ -629,6 +629,7 @@ module.exports = {
     '4': '1rem',
     '6': '1.5rem',
     '8': '2rem',
+    'full': '100%',
   },
 
 
