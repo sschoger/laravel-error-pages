@@ -4161,6 +4161,10 @@ button,
   font-size: 3rem;
 }
 
+.text-15xl {
+  font-size: 9rem;
+}
+
 .italic {
   font-style: italic;
 }
@@ -8029,6 +8033,10 @@ button,
 
   .sm\:text-5xl {
     font-size: 3rem;
+  }
+
+  .sm\:text-15xl {
+    font-size: 9rem;
   }
 
   .sm\:italic {
@@ -11902,6 +11910,10 @@ button,
     font-size: 3rem;
   }
 
+  .md\:text-15xl {
+    font-size: 9rem;
+  }
+
   .md\:italic {
     font-style: italic;
   }
@@ -15773,6 +15785,10 @@ button,
     font-size: 3rem;
   }
 
+  .lg\:text-15xl {
+    font-size: 9rem;
+  }
+
   .lg\:italic {
     font-style: italic;
   }
@@ -19642,6 +19658,10 @@ button,
 
   .xl\:text-5xl {
     font-size: 3rem;
+  }
+
+  .xl\:text-15xl {
+    font-size: 9rem;
   }
 
   .xl\:italic {
